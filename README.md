@@ -1,0 +1,2 @@
+# Mydjango
+practice django 
